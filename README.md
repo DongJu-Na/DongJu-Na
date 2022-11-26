@@ -1,9 +1,12 @@
 ### 🤞 Nice way to meet me
    
+   
+   
 👋  Hi there! I'm full stack developer.🚀
 
+
 💪 Skills
-Platforms & Languages
+
      
 
    
