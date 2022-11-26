@@ -1,6 +1,6 @@
 ### 🤞 Nice way to meet me
 <p>
-  <a href="mailto:ehdeld123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:ehdeld123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ehdeld123@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>   
    
    
