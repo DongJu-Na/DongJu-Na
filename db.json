@@ -1,23 +1,24 @@
 {
   "menu": [
-     { "name" : "구내식당", "paycoYn" : "Y" , "addr" : "" } 
-    ,{ "name" : "종가집",  "paycoYn" : "Y"  , "addr" : "" } 
-    ,{ "name" : "량",  "paycoYn" : "Y" , "addr" : "" } 
-    ,{ "name" : "담미온",  "paycoYn" : "Y" , "addr" : "" } 
-    ,{ "name" : "가츠몽",  "paycoYn" : "Y" , "addr" : "" } 
-    ,{ "name" : "담소소사골순대육개장",  "paycoYn" : "Y" , "addr" : "" } 
-    ,{ "name" : "진순대국",  "paycoYn" : "Y" , "addr" : "" }  
-    ,{ "name" : "김치도가",  "paycoYn" : "Y" , "addr" : "" } 
-    ,{ "name" : "놀부맑은설렁탕담다", "paycoYn" : "Y" , "addr" : "" } 
-    ,{ "name" : "05식당",  "paycoYn" : "Y" , "addr" : "" }  
-    ,{ "name" : "콩마루",  "paycoYn" : "Y" , "addr" : "" } 
-    ,{ "name" : "킹콩부대찌개",  "paycoYn" : "Y" , "addr" : "" } 
-    ,{ "name" : "참진김치찜",  "paycoYn" : "Y" , "addr" : "" } 
-    ,{ "name" : "여수식당",  "paycoYn" : "Y", "addr" : "" }  
-    ,{ "name" : "1조감자탕",  "paycoYn" : "Y" , "addr" : "" } 
-    ,{ "name" : "안동김밥",  "paycoYn" : "Y" , "addr" : "" } 
-    ,{ "name" : "하늘주",  "paycoYn" : "Y" , "addr" : "" } 
-    ,{ "name" : "다온푸드", "paycoYn" : "Y" , "addr" : "" } 
-    ,{ "name" : "인생쌈밥", "paycoYn" : "Y" , "addr" : "" }   
+     { "id" : 1  , "name" : "구내식당", "paycoYn" : "Y" , "addr" : "" } 
+    ,{ "id" : 2  , "name" : "종가집",  "paycoYn" : "Y"  , "addr" : "" } 
+    ,{ "id" : 3  , "name" : "량",  "paycoYn" : "Y" , "addr" : "" } 
+    ,{ "id" : 4  , "name" : "담미온",  "paycoYn" : "Y" , "addr" : "" } 
+    ,{ "id" : 5  , "name" : "가츠몽",  "paycoYn" : "Y" , "addr" : "" } 
+    ,{ "id" : 6  , "name" : "담소소사골순대육개장",  "paycoYn" : "Y" , "addr" : "" } 
+    ,{ "id" : 7  , "name" : "진순대국",  "paycoYn" : "Y" , "addr" : "" }  
+    ,{ "id" : 8  , "name" : "김치도가",  "paycoYn" : "Y" , "addr" : "" } 
+    ,{ "id" : 9  , "name" : "놀부맑은설렁탕담다", "paycoYn" : "Y" , "addr" : "" } 
+    ,{ "id" : 10  , "name" : "05식당",  "paycoYn" : "Y" , "addr" : "" }  
+    ,{ "id" : 11  , "name" : "콩마루",  "paycoYn" : "Y" , "addr" : "" } 
+    ,{ "id" : 12  , "name" : "킹콩부대찌개",  "paycoYn" : "Y" , "addr" : "" } 
+    ,{ "id" : 13  , "name" : "참진김치찜",  "paycoYn" : "Y" , "addr" : "" } 
+    ,{ "id" : 14  , "name" : "여수식당",  "paycoYn" : "Y", "addr" : "" }  
+    ,{ "id" : 15  , "name" : "1조감자탕",  "paycoYn" : "Y" , "addr" : "" } 
+    ,{ "id" : 16  , "name" : "안동김밥",  "paycoYn" : "Y" , "addr" : "" } 
+    ,{ "id" : 17  , "name" : "하늘주",  "paycoYn" : "Y" , "addr" : "" } 
+    ,{ "id" : 18  , "name" : "다온푸드", "paycoYn" : "Y" , "addr" : "" } 
+    ,{ "id" : 19  , "name" : "인생쌈밥", "paycoYn" : "Y" , "addr" : "" }   
+    ,{ "id" : 20  , "name" : "CU", "paycoYn" : "Y" , "addr" : "" }   
   ]
 }
