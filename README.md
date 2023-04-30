@@ -1,6 +1,9 @@
 👋  Hi there! I am a developer interested in automation...🚀
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongJu-Na&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/40068674/161518262-ea900153-b027-4985-a130-b2e097096f52.gif" width="400" height="300">
+ </div>
 
 # 💻 Stats
 ![GitHub Stat](https://github-readme-stats.vercel.app/api?username=DongJu-Na&show_icons=true&theme=neon&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=DongJu-Na&theme=neon&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly)](https://github.com/DongJu-Na/DongJu-Na)
