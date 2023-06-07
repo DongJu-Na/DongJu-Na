@@ -20,5 +20,6 @@
     ,{ "id" : 18  , "name" : "다온푸드", "paycoYn" : "Y" , "addr" : "" } 
     ,{ "id" : 19  , "name" : "인생쌈밥", "paycoYn" : "Y" , "addr" : "" }   
     ,{ "id" : 20  , "name" : "CU", "paycoYn" : "Y" , "addr" : "" }   
+    ,{ "id" : 20  , "name" : "GS25", "paycoYn" : "N" , "addr" : "" }   
   ]
 }
