@@ -7,6 +7,7 @@
 
 # 💻 Stats
 ![GitHub Stat](https://github-readme-stats.vercel.app/api?username=DongJu-Na&showicons=true&theme=radical&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=DongJu-Na&theme=neon&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly)](https://github.com/DongJu-Na/DongJu-Na)
+
 |----|----|
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DongJu-Na&layout=compact&langs_count=105&theme=rose_pine&count_private=false) -->
 
