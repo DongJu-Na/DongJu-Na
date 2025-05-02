@@ -1,6 +1,6 @@
 👋  Hi there! I am a Developer interested in Automation...🚀 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongJu-Na&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://www.buymeacoffee.com/dongju"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
 <div align="center">
  <img src="https://user-images.githubusercontent.com/40068674/161518262-ea900153-b027-4985-a130-b2e097096f52.gif" width="400" height="300">
   <a href="https://github.com/devxb/gitanimals">
