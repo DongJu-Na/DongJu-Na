@@ -1,6 +1,6 @@
 👋  Hi there! I am a Developer interested in Automation...🚀 
 
-<a href="https://www.buymeacoffee.com/dongju"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
+<a href="https://www.buymeacoffee.com/dongju" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 <div align="center">
  <img src="https://user-images.githubusercontent.com/40068674/161518262-ea900153-b027-4985-a130-b2e097096f52.gif" width="400" height="300">
   <a href="https://github.com/devxb/gitanimals">
