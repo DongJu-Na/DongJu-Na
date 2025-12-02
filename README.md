@@ -9,9 +9,9 @@
  </div>
 
 # 💻 Stats
-![](https://raw.githubusercontent.com/DongJu-Na/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-<img src="https://github.com/DongJu-Na/github-stats/raw/master/generated/overview.svg#gh-dark-mode-only" style="max-width: 100%;"> | [![GitHub Streak](https://streak-stats.demolab.com?user=DongJu-Na&theme=neon&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly)](https://github.com/DongJu-Na/DongJu-Na)
+
+![githubStats](https://raw.githubusercontent.com/DongJu-Na/github-stats/master/generated/overview.svg#gh-dark-mode-only) | [![GitHub Streak](https://streak-stats.demolab.com?user=DongJu-Na&theme=neon&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly)](https://github.com/DongJu-Na/DongJu-Na)
 |----|----|
  
 # :mailbox_with_mail: Contacts
